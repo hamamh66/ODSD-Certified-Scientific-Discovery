@@ -1,0 +1,4 @@
+method,n_experiments,unsafe_experiments,final_status,rec_true_rate,rec_true_roughness,rec_is_safe,pct_of_best_safe_rate
+Certified closed loop (ours),22,8,certified (decision deferred),82.8,2.67,True,98.9
+Uncertainty-blind BO,22,22,uncertified,98.93,8.28,False,118.2
+Random screening,22,20,uncertified,106.41,6.9,False,127.1
